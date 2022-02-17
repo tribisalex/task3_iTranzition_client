@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/task3_iTranzition_client/static/js/main.3e7031f5.chunk.js",
+    "main.js.map": "/task3_iTranzition_client/static/js/main.3e7031f5.chunk.js.map",
+    "runtime~main.js": "/task3_iTranzition_client/static/js/runtime~main.dcbb2195.js",
+    "runtime~main.js.map": "/task3_iTranzition_client/static/js/runtime~main.dcbb2195.js.map",
+    "static/js/2.2eb238be.chunk.js": "/task3_iTranzition_client/static/js/2.2eb238be.chunk.js",
+    "static/js/2.2eb238be.chunk.js.map": "/task3_iTranzition_client/static/js/2.2eb238be.chunk.js.map",
+    "index.html": "/task3_iTranzition_client/index.html",
+    "precache-manifest.08d71e1a345f58c4f365df5521ac335a.js": "/task3_iTranzition_client/precache-manifest.08d71e1a345f58c4f365df5521ac335a.js",
+    "service-worker.js": "/task3_iTranzition_client/service-worker.js"
+  }
+}
