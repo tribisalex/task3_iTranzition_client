@@ -1,11 +1,11 @@
 import axios from 'axios';
 
 const $host = axios.create({
-  baseURL: 'https://enigmatic-wildwood-39578.herokuapp.com/'
+  baseURL: 'http://localhost:5000/'
 })
 
 const $authHost = axios.create({
-  baseURL:'https://enigmatic-wildwood-39578.herokuapp.com/'
+  baseURL:'http://localhost:5000/'
 })
 
 const authInterceptor = config => {
